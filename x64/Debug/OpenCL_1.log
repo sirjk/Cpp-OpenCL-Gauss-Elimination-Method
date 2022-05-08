@@ -1,0 +1,20 @@
+﻿  OpenCL_1.cpp
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(13,32): warning C4267: "inicjowanie": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(16,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(17,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(19,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(31,32): warning C4267: "inicjowanie": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(40,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(96,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(108,36): warning C4244: "=": konwersja z "int" do "_Ty", możliwa utrata danych
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(108,36): warning C4244:         with
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(108,36): warning C4244:         [
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(108,36): warning C4244:             _Ty=float
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(108,36): warning C4244:         ]
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(116,40): warning C4244: "=": konwersja z "int" do "_Ty", możliwa utrata danych
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(116,40): warning C4244:         with
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(116,40): warning C4244:         [
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(116,40): warning C4244:             _Ty=float
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(116,40): warning C4244:         ]
+C:\Users\user\source\repos\OpenCL_1\OpenCL_1\OpenCL_1.cpp(246,21): warning C4244: "inicjowanie": konwersja z "cl_ulong" do "double", możliwa utrata danych
+  OpenCL_1.vcxproj -> C:\Users\user\source\repos\OpenCL_1\x64\Debug\OpenCL_1.exe
